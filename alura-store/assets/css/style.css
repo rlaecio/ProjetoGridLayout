@@ -19,7 +19,6 @@
 }
  
 .conteudo {
-    /* background: #ff8000; */
     grid-area: conteudo;
     padding: 0 2rem;
 }
